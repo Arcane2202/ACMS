@@ -2,7 +2,7 @@
  
 ---ACMS (Admission Coaching Management System)---
 
-This project waS made with the goal of creating a platform for students,teachers,managements and admin (of a coaching center)
+This project was made with the goal of creating a platform for students,teachers,managements and admin (of a coaching center)
 so that they can use it to maintain all their current, previous and possibly fututre records.
 
 This project has four major pannels - admin, manager, teacher, student all of which is made for its corresponding users
